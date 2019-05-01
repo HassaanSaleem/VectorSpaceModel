@@ -14,8 +14,11 @@ Sample Queries:
    4 documents 
 
    43.txt - 0.03291
+   
    6.txt  - 0.01589
+   
    1.txt  - 0.00635
+   
    9.txt  - 0.00531 
 
 2. q= "lodie"
@@ -24,20 +27,31 @@ Sample Queries:
    24.txt - 0.12751
 
 3. q= "travel water"
+   
    3 documents 
  
    21.txt - 0.02184 
+   
    19.txt - 0.01530
+   
    11.txt - 0.01274
 
 4. q= "king queen"
+   
    8 documents 
 
    31.txt - 0.25304
+   
    7.txt  - 0.01565
+   
    34.txt - 0.01546
+   
    43.txt - 0.01163
+   
    49.txt - 0.00764
+   
    40.txt - 0.00744
+   
    25.txt - 0.00667 
+   
    40.txt - 0.00614
