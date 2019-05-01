@@ -11,6 +11,7 @@ Files in this project include:
 Sample Queries:
 
 1. q= "love hate"
+ 
    4 documents 
 
    43.txt - 0.03291
@@ -22,6 +23,7 @@ Sample Queries:
    9.txt  - 0.00531 
 
 2. q= "lodie"
+   
    1 document 
 
    24.txt - 0.12751
